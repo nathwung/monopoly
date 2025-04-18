@@ -92,5 +92,5 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ## 🔗 Links
 
-- 🎥 **Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1COoPDofs2tkl8vgkka4SR1U5thTGGrkh/view)  
+- 🎥 **Video Demo**: [Watch on Google Drive]()  
 - 💻 **Source Code**: [GitHub Repository](https://github.com/nathwung/monopoly)
