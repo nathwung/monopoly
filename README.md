@@ -12,7 +12,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ## 🚀 Features
 
-### 🟦 1. Title Screen & Game Start
+### 🎬 1. Title Screen & Game Start
 - Monopoly-themed **title screen** displayed on VGA
 - Official **theme song** plays on loop
 - Pressing **Enter** (via PS/2 keyboard):
