@@ -22,7 +22,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ---
 
-### 🎲 2. Turn-Based Gameplay
+### 🔁 2. Turn-Based Gameplay
 
 #### 🎯 Dice Roll
 - Press **Enter** to roll animated dice with sound effects
