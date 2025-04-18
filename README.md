@@ -88,6 +88,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 - **VGA Display**:
   - Real-time updates to board, player stats, and tile info
+  - **Players’ current cash balances are displayed and updated automatically after each turn**, reflecting purchases, rent, rewards, and penalties
   - Smooth animation for token movement and house rendering
 
 - **Audio Feedback**:
