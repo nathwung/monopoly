@@ -79,7 +79,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
   - Pay bail
   - Use a card
 
-#### 💸 Luxury & Income Tax / 🅿️ Free Parking / 🚔 Go to Jail
+#### 💸 Tax / 🅿️ Free Parking / 🚔 Go to Jail
 - Behave according to official Monopoly rules
 
 ---
