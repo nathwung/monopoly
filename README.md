@@ -53,7 +53,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 ##### 🅿️ Free Parking / In Jail or Just Visiting
 - No action triggered
 
-##### 💵 GO Tile
+##### ➡️ GO Tile
 - Landing or passing awards **$200**
 
 ---
