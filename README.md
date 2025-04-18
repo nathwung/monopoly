@@ -1,6 +1,6 @@
 # 🎲 Monopoly
 
-A full-featured, VGA-rendered implementation of **Monopoly**, developed on an FPGA with PS/2 keyboard input and integrated audio. The game supports rich, turn-based gameplay with animations, sound effects, and interactive property mechanics—all designed for a classic board game experience on hardware.
+A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **FPGA platform (DE1-SoC)** using **C**. The game features turn-based mechanics, smooth animations, audio effects, and real-time hardware interaction through PS/2 input, VGA output, and sound playback. While the game logic is entirely written in **C**, it runs on the DE1-SoC’s embedded system to directly control hardware peripherals like the VGA display, PS/2 keyboard, and audio output.
 
 ---
 
