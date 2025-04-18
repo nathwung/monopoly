@@ -26,6 +26,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 #### 🎯 Dice Roll
 - Press **Enter** to roll animated dice with sound effects
+- Includes a brief delay for the animation, mimicking real dice physics
 - Result is randomized and determines movement steps
 
 #### 🚶 Movement
