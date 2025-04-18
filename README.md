@@ -84,7 +84,13 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ---
 
-### 🖥️ 4. Visual & Audio Feedback
+### 🏆 4. Win Condition
+- If a player's cash total becomes **negative**, they are eliminated from the game
+- The remaining player is automatically declared the **winner**
+
+---
+
+### 🖥️ 5. Visual & Audio Feedback
 
 - **VGA Display**:
   - Real-time updates to board, player stats, and tile info
