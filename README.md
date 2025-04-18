@@ -1,5 +1,11 @@
 # 🎲 Monopoly
 
+[![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Platform](https://img.shields.io/badge/Platform-DE1--SoC%20FPGA-0078D7?style=for-the-badge)](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=139&No=836)
+[![Display](https://img.shields.io/badge/Output-VGA-8B008B?style=for-the-badge)]()
+[![Input](https://img.shields.io/badge/Input-PS%2F2%20Keyboard-556B2F?style=for-the-badge)]()
+[![Audio](https://img.shields.io/badge/Audio-Sound%20Effects%20%2B%20Music-FF8C00?style=for-the-badge)]()
+
 A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **FPGA platform (DE1-SoC)** using **C**. The game features turn-based mechanics, smooth animations, audio effects, and real-time hardware interaction through PS/2 input, VGA output, and sound playback. While the game logic is entirely written in **C**, it runs on the DE1-SoC’s embedded system to directly control hardware peripherals like the VGA display, PS/2 keyboard, and audio output.
 
 ---
