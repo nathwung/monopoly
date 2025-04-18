@@ -39,11 +39,13 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ##### 🟢 Unowned Property
 - Prompted to **buy or skip** via PS/2 keyboard
-- If bought: automatically places 1 house (no full set required)
+- If bought: automatically places **house** (no full set required)
+- House graphic includes a **number inside** to indicate the current house count
 
 ##### 🔴 Owned Property
-- Prompt to **build more houses** (up to 4 max)
-- Rent increases with houses
+- Prompt to **build more houses** (up to a maximum of 4)
+- Each new house increases rent
+- The **number inside the house graphic** updates in real-time to reflect total houses on that property
 
 ##### 🚆 Railroads / ⚡ Utilities
 - Can be purchased, but **houses cannot be built**
