@@ -77,7 +77,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 - Three release options:
   - Roll doubles (within 3 turns)
   - Pay bail
-  - Use a card
+  - Use "Get Out of Jail Free" card (if owned)
 
 #### 💸 Tax / 🅿️ Free Parking / 🚔 Go to Jail
 - Behave according to official Monopoly rules
