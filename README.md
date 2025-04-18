@@ -1,4 +1,4 @@
-# 🎲 Monopoly
+# ![Monopoly Mascot](https://example.com/uncle_pennybags.png) Monopoly
 
 [![Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Platform](https://img.shields.io/badge/Platform-DE1--SoC%20FPGA-0078D7?style=for-the-badge)](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&CategoryNo=139&No=836)
