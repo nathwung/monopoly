@@ -66,7 +66,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ### 🃏 3. Special Tiles & Events
 
-#### 💼 Chance & Community Chest
+#### ❓ Chance & Community Chest
 - Trigger **randomized effects**:
   - Gain/lose money
   - Movement changes
