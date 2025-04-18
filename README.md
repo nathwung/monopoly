@@ -61,7 +61,7 @@ A full-featured, VGA-rendered implementation of **Monopoly**, developed on an **
 
 ---
 
-### 🎲 Doubles Rule
+### 🎲🎲 Doubles Rule
 - Rolling doubles grants an **extra turn**
 - Rolling doubles **3 times in a row** sends the player to jail (third move skipped)
 
